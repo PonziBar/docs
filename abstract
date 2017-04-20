@@ -1,0 +1,14 @@
+Abstract. IOT, machine economy, automation are hot topics at the moment. 
+Systems and protocols without centralised ownership are very useful in this field,
+in particular token systems. Even though blockchains probably aren't a magic fix 
+to IOT security, stateful systems such as Ethereum provide a pretty good platform
+to automate actions where otherwise trust would be needed creating decentralised organisations 
+of different degree of autonomy.
+All that requires not just theoretical work, but real life prototyping. 
+We proposeto create an autonomous fully automated bar in Berlin, an experiment that can accomodate
+different pilot projects and foster cryptoeconomic design practice. Ponzi Bar is based on
+Automaten Bar concept that existed in Berlin, adding a system of tokens to manage access, 
+value exchange and governance, implemented on Ethereum. 
+This document describes basic architecture, participants roles, some functional specifications 
+and a roadmap.
+More detailed technical specifications will be described in the separate document. 
